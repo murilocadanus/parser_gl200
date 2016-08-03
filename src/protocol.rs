@@ -1,7 +1,7 @@
 use std::str;
 use std::io::BufReader;
 use rustc_serialize::hex::ToHex;
-use tpms::*;
+//use tpms::*;
 
 #[derive(PartialEq,Eq,Debug)]
 enum Message {
