@@ -1,0 +1,8 @@
+[package]
+name = "parser_gl200"
+version = "0.1.0"
+authors = ["Murilo Cadanus da Costa <murilocadanus@gmail.com>"]
+
+[dependencies]
+mio = "0.5"
+psio = { git = "https://github.com/murilocadanus/psio.git", branch = "develop"}
